@@ -1,2 +1,2 @@
 # Projects
-My Journey through Python: From beginner to Pro :=)
+My Journey through Python: From BEGINNER to PRO :=)
