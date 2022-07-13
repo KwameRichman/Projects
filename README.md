@@ -19,3 +19,9 @@ My Journey through Python: From BEGINNER to PRO :=)
 14. Odd or Even Finder
 15. Prime number Checker
 16. Rock paper Scissors
+17. Flower (using turtle)
+18. A spirograph (Using Turtle)
+19. The Hirst Painting (Using Turtle)
+20. Etch A Sketch (Using Turtle)
+21. Turtle Race Game (Using Turtle)
+22. Snake Game (Using Turtle)
