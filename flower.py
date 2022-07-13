@@ -5,6 +5,7 @@ speed(0)
 pensize(3)
 bgcolor('black')
 hue = 0.0
+hideturtle()
 
 for i in range (300):
     col = colorsys.hsv_to_rgb(hue, 1, 1)
@@ -14,4 +15,6 @@ for i in range (300):
     lt(80)
     circle(5-i, 100)
     rt(100)
-done    
+
+screen = Screen()
+screen.exitonclick()
